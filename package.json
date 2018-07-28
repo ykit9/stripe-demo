@@ -1,0 +1,30 @@
+{
+  "name": "stripe-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykit9/stripe-demo.git"
+  },
+  "keywords": [
+    "stipe"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ykit9/stripe-demo/issues"
+  },
+  "homepage": "https://github.com/ykit9/stripe-demo#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "stripe": "^6.4.0",
+    "body-parser": "^1.17.1",
+    "ejs": "^2.6.1"
+  }
+}
